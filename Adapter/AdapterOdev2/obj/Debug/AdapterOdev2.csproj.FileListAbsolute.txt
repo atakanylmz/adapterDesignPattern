@@ -1,0 +1,18 @@
+C:\Users\Serap\Desktop\nesne\proje\MezunBilgiSistemi\AdapterOdev2\AdapterOdev2\bin\Debug\AdapterOdev2.exe.config
+C:\Users\Serap\Desktop\nesne\proje\MezunBilgiSistemi\AdapterOdev2\AdapterOdev2\bin\Debug\AdapterOdev2.exe
+C:\Users\Serap\Desktop\nesne\proje\MezunBilgiSistemi\AdapterOdev2\AdapterOdev2\bin\Debug\AdapterOdev2.pdb
+C:\Users\Serap\Desktop\nesne\proje\MezunBilgiSistemi\AdapterOdev2\AdapterOdev2\obj\Debug\AdapterOdev2.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\nesne\proje\MezunBilgiSistemi\AdapterOdev2\AdapterOdev2\obj\Debug\AdapterOdev2.Form1.resources
+C:\Users\Serap\Desktop\nesne\proje\MezunBilgiSistemi\AdapterOdev2\AdapterOdev2\obj\Debug\AdapterOdev2.Properties.Resources.resources
+C:\Users\Serap\Desktop\nesne\proje\MezunBilgiSistemi\AdapterOdev2\AdapterOdev2\obj\Debug\AdapterOdev2.csproj.GenerateResource.Cache
+C:\Users\Serap\Desktop\nesne\proje\MezunBilgiSistemi\AdapterOdev2\AdapterOdev2\obj\Debug\AdapterOdev2.exe
+C:\Users\Serap\Desktop\nesne\proje\MezunBilgiSistemi\AdapterOdev2\AdapterOdev2\obj\Debug\AdapterOdev2.pdb
+C:\Users\Serap\Desktop\Git için\AdapterOdev2\AdapterOdev2\bin\Debug\AdapterOdev2.exe.config
+C:\Users\Serap\Desktop\Git için\AdapterOdev2\AdapterOdev2\obj\Debug\AdapterOdev2.exe
+C:\Users\Serap\Desktop\Git için\AdapterOdev2\AdapterOdev2\obj\Debug\AdapterOdev2.pdb
+C:\Users\Serap\Desktop\Git için\AdapterOdev2\AdapterOdev2\bin\Debug\AdapterOdev2.exe
+C:\Users\Serap\Desktop\Git için\AdapterOdev2\AdapterOdev2\bin\Debug\AdapterOdev2.pdb
+C:\Users\Serap\Desktop\Git için\AdapterOdev2\AdapterOdev2\obj\Debug\AdapterOdev2.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\Git için\AdapterOdev2\AdapterOdev2\obj\Debug\AdapterOdev2.Form1.resources
+C:\Users\Serap\Desktop\Git için\AdapterOdev2\AdapterOdev2\obj\Debug\AdapterOdev2.Properties.Resources.resources
+C:\Users\Serap\Desktop\Git için\AdapterOdev2\AdapterOdev2\obj\Debug\AdapterOdev2.csproj.GenerateResource.Cache
